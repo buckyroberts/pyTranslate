@@ -1,0 +1,10 @@
+[{"id":1,"first_name":"Frank","last_name":"Palmer","email":"fpalmer0@amazon.de","gender":"Male","address":{"street":"Portage","city":"Orlando","state":"FL"}},
+{"id":2,"first_name":"Randy","last_name":"Gilbert","email":"rgilbert1@ucoz.ru","gender":"Male","address":{"street":"Wayridge","city":"Boise","state":"ID"}},
+{"id":3,"first_name":"Mildred","last_name":"Bishop","email":"mbishop2@quantcast.com","gender":"Female","address":{"street":"North","city":"Madison","state":"WI"}},
+{"id":4,"first_name":"Annie","last_name":"Nichols","email":"anichols3@smh.com.au","gender":"Female","address":{"street":"Reinke","city":"York","state":"PA"}},
+{"id":5,"first_name":"Nicholas","last_name":"Edwards","email":"nedwards4@irs.gov","gender":"Male","address":{"street":"Banding","city":"Tacoma","state":"WA"}},
+{"id":6,"first_name":"Donald","last_name":"Carroll","email":"dcarroll5@businessinsider.com","gender":"Male","address":{"street":"Shoshone","city":"Olympia","state":"WA"}},
+{"id":7,"first_name":"Rebecca","last_name":"Lawrence","email":"rlawrence6@naver.com","gender":"Female","address":{"street":"Rusk","city":"Cedar Rapids","state":"IA"}},
+{"id":8,"first_name":"Michael","last_name":"Adams","email":"madams7@tuttocitta.it","gender":"Male","address":{"street":"Kennedy","city":"Seattle","state":"WA"}},
+{"id":9,"first_name":"Robert","last_name":"Dixon","email":"rdixon8@zdnet.com","gender":"Male","address":{"street":"Shopko","city":"Bozeman","state":"MT"}},
+{"id":10,"first_name":"Jason","last_name":"Carr","email":"jcarr9@ibm.com","gender":"Male","address":{"street":"Portage","city":"Gadsden","state":"AL"}}]

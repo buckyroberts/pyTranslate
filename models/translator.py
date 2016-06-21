@@ -10,3 +10,7 @@ class Translator:
         for row in csv.DictReader(open(csv_file, 'r')):
             results.append(row)
         json.dump(results, open(json_file, 'w'))
+
+    @staticmethod
+    def csv_to_dicts(csv_file):
+        return [row for row in csv.DictReader(open(csv_file, 'r'))]
